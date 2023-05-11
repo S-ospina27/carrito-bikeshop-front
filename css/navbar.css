@@ -1,0 +1,39 @@
+.navbar {
+    background-color: #6f42c1;
+    border-bottom: 2px solid #fff; 
+  }
+  
+  body {
+    background-color: #f5f5f5;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml,%3csvg viewBox="0 0 30 30" xmlns="http://www.w3.org/2000/svg"%3e%3cpath stroke="%23ffffff" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3e%3c/svg%3e'); /* personalizamos el icono del botón */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff; /* color de texto de los enlaces */
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .dropdown-menu {
+    background-color: #f8f9fa; 
+    border: none;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .dropdown-item {
+    color: #000; 
+    font-weight: bold;
+  }
+  
+  
+  .dropdown-divider {
+    background-color: #0000;
+  }
+  

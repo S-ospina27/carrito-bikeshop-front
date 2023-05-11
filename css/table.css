@@ -1,0 +1,19 @@
+table {
+  border-radius: 5px;
+  border: 1px solid #dee2e6;
+}
+
+.table thead th {
+  color: #fff;
+  background-color: #6F42C1
+}
+
+th {
+  background-color: #6F42C1;
+  color: #fff;
+}
+
+.table-responsive {
+  height: 300px;
+  overflow: scroll;
+}
